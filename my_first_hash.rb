@@ -1,6 +1,7 @@
 def my_hash
-
-  
+  "My name" => "Ricky",
+  "Programming language" => "Ruby"
+}
 end
 
 
